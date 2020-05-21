@@ -44,7 +44,12 @@ span {
   color: #fa744f;
 }
 
-.main {
+.container {
   background-image: url('showcase.jpg');
   background-size: cover;
+  height: 100vh;
+}
+
+.main{
+  color: white;
 }
