@@ -50,6 +50,35 @@ span {
   height: 100vh;
 }
 
-.main{
+
+.title {
   color: white;
+  opacity: 0.9;
+}
+
+p {
+  color: white;
+  opacity: 0.7;
+}
+
+
+.btn {
+  border-radius: 10px;
+  height: 65px;
+  background-color: #323232;
+  color: white;
+  width: 120px;
+  text-align: center;
+}
+.main {
+  text-align: center;
+}
+
+.buttonn {
+  position: absolute;
+  top: 50%;
+}
+
+img {
+  height: 70vh;
 }
