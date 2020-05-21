@@ -67,7 +67,7 @@ p {
   height: 65px;
   background-color: #323232;
   color: white;
-  width: 10vw;
+  width: 120px;
   text-align: center;
 }
 .main {
@@ -77,9 +77,16 @@ p {
 .buttonn {
   position: absolute;
   top: 50%;
-  left: 45vw;
 }
 
 img {
   height: 70vh;
+}
+.box-1 {
+  float: left;
+}
+
+
+.box-2 {
+  float: right;
 }
