@@ -1,0 +1,50 @@
+body {
+  padding: 0;
+  margin : 0;
+  width: 100%;
+}
+
+header {
+  background-color: #3f3f44;
+  height: 80px;
+
+}
+
+.head {
+  color: white;
+  font-size: 40px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.header-list {
+  color: white;
+  float: right;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 30px 20px 30px 20px;
+  font-size: 20px;
+}
+
+ul {
+  height: 100%;
+  margin: 0;
+}
+
+li:hover, .current {
+  background-color: #706C61;
+  color: #fa744f;
+  height: 21px;
+}
+
+span {
+  color: #fa744f;
+}
+
+.main {
+  background-image: url('showcase.jpg');
+  background-size: cover;
+}
