@@ -144,5 +144,10 @@ h2 {
 
 .room {
   background-color: #ABF0E9;
-  color: black;
+}
+
+.box-2 {
+  width: 33.33%;
+  float: left;
+  height: 100%;
 }
