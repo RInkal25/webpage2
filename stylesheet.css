@@ -164,7 +164,11 @@ h2 {
 
 footer {
   background-color: #3f3f44;
+
+  width: 100%;
+}
+
+.last {
+  line-height: 5;
   text-align: center;
-
-
 }
