@@ -129,3 +129,20 @@ h2 {
   color: white;
   padding: 30px;
 }
+
+.box-2{
+  color: black;
+}
+
+.location {
+  background-color: #ABF0E9;
+}
+
+.meals {
+  background-color: #f18867;
+}
+
+.room {
+  background-color: #ABF0E9;
+  color: black;
+}
